@@ -34,4 +34,4 @@ default_hour: 0
 ## Default Minute
 ### Define the minute that will be used, when no time is specified.
 ### Type: Number
-default_minute: 1440
+default_minute: 0
